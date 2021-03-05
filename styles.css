@@ -1,0 +1,5 @@
+html .theme-entry .SFC.SourceCode-Forms-Controls-Web-TextBox[name='Text Box'] {
+    padding: 10px;
+    border-radius: 5px;
+    border-color: red;
+}
